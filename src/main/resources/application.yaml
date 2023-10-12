@@ -1,0 +1,14 @@
+# 项目访问端口和路径
+server:
+  port: 8080
+  servlet:
+    context-path: /app
+
+
+# mysql配置
+
+
+
+
+
+
